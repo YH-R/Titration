@@ -1,0 +1,7 @@
+Hydrofluoric	HF	F	0.00071	true
+Nitrous	HNO<sub>2</sub>	NO<sub>2</sub>	0.00045	true
+Formic	HCOOH	HCOO	0.00017	false
+Benzoic	C<sub>6</sub>H<sub>5</sub>COOH	C<sub>6</sub>H<sub>5</sub>CO	0.000065	false
+Acetic	CH<sub>3</sub>COOH	CH<sub>3</sub>COO	0.000018	false
+Hydrocyanic	HCN	CN	0.00000000049	true
+Phenol	C<sub>6</sub>H<sub>5</sub>OH	C<sub>6</sub>H<sub>5</sub>O	0.00000000013	false
