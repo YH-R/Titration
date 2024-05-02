@@ -1,6 +1,0 @@
-Ethylamine	C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub>	C<sub>2</sub>H<sub>5</sub>NH<sub>3</sub>	0.00056
-Methylamine	CH<sub>3</sub>NH<sub>2</sub>	CH<sub>3</sub>NH<sub>3</sub>	0.00044
-Ammonia	NH<sub>3</sub>	NH<sub>4</sub>	0.000018
-Pyridine	C<sub>5</sub>H<sub>5</sub>N	C<sub>5</sub>H<sub>5</sub>NH	0.0000000017
-Aniline	C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>	C<sub>6</sub>H<sub>5</sub>NH<sub>3</sub>	0.00000000038
-Urea	H<sub>2</sub>NCONH<sub>2</sub>	H<sub>2</sub>NCONH<sub>3</sub>	0.000000000000015
